@@ -1,1 +1,2 @@
 This is the initial commit of file-b.txt
+Added stuff from branch-1
