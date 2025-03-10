@@ -1,6 +1,9 @@
 This is the initial commit of file-b.txt
+<<<<<<< HEAD
 Added stuff from branch-1
+=======
 
 Add something from main branch.
 
 Add something else from main branch.
+>>>>>>> main
