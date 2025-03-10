@@ -1,3 +1,5 @@
 This is the initial commit of file-b.txt
 
 Add something from main branch.
+
+Add something else from main branch.
