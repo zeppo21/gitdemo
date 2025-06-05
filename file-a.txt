@@ -1,6 +1,9 @@
 This is the initial commit of file-a.txt add stuff
 Add stuff from main
 Add stuff from branch-1
+Add stuff from main...
+
+add a main branch intermediate line
 
 adding a line from branch-1 for grins
 
